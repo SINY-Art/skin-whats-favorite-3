@@ -183,4 +183,4 @@ function showPolicy() {
     banner.style.animation = 'fadeIn .5s ease'
 }
 
-setTimeout(showPolicy, 3000)
+setTimeout(showPolicy, 7000)
